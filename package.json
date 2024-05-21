@@ -1,0 +1,24 @@
+{
+  "name": "regular-use-utility",
+  "version": "1.0.0",
+  "description": "regular utility function use in any app",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunilPawarEllicium/regular-use-utility.git"
+  },
+  "keywords": [
+    "any"
+  ],
+  "author": "Sunil Pawar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SunilPawarEllicium/regular-use-utility/issues"
+  },
+  "homepage": "https://github.com/SunilPawarEllicium/regular-use-utility#readme"
+}
