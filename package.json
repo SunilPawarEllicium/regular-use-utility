@@ -13,7 +13,8 @@
     "url": "git+https://github.com/SunilPawarEllicium/regular-use-utility.git"
   },
   "keywords": [
-    "any"
+    "Utility functions",
+    "Regular use function"
   ],
   "author": "Sunil Pawar",
   "license": "ISC",
