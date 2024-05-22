@@ -1,6 +1,6 @@
 {
   "name": "regular-use-utility",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "regular utility function use in any app",
   "type": "module",
   "main": "index.js",
