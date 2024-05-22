@@ -1,6 +1,7 @@
 function testNpm() {
   console.log("Hello utility");
 }
-export default {
+
+export default regUseUtility = {
   testNpm,
 };
